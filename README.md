@@ -66,7 +66,7 @@ Evaluation of multiple ROV configurations, selection of an initial hardware desi
 ## Project Information
 
 **Institution:** Amrita Vishwa Vidyapeetham  
-**Domain:**  Reinforcement Learning, Deep Learning, Python, Robotics, Artificial Intelligence, Underwater Inspection
-**Team Members:**  Neehara P., Avanthika Binu, Shreya Shibu
+**Domain:** Reinforcement Learning, Deep Learning, Python, Robotics, Artificial Intelligence, Underwater Inspection<br>
+**Team Members:** Neehara P., Avanthika Binu, Shreya Shibu
 
 P.S: This is an ongoing collaborative project. The AI models, hardware design, and inspection system are under development.
