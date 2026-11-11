@@ -46,14 +46,9 @@ Evaluation of multiple ROV configurations, selection of an initial hardware desi
 | `FYPv2-ROV_Assembly.step` | ROV assembly model |
 | `Rov_design_v6.dwg` | Updated ROV CAD design |
 | `Turbine_Inspection_ROV-v6.step` | 3D STEP model of the inspection ROV |
-| `Group13RAE.pptx` | Project presentation |
 | `LiteratureReview-1.docx` | Literature review documentation |
 | `LiteratureReview-2.pdf` | Literature review documentation |
-| `GE Hydro Runner ROV System/` | Reference material |
-| `Mini-ROV NDT Infrastructure Scanner/` | Reference material |
-| `new topic contribution/` | Project-related documentation |
-| `papers/` | Research material |
-| `paper at review2/` | Research and review material |
+| References.docx | Consolidated document containing the references for the selected research papers. |
 
 ## Future Work
 
