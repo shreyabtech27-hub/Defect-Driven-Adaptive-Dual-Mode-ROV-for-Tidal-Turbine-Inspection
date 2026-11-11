@@ -25,6 +25,8 @@ Evaluation of multiple ROV configurations, selection of an initial hardware desi
 
 
 <img width="1565" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3076cf1-8937-4921-aebe-69043cedb671" />
+<img width="1687" height="823" alt="image" src="https://github.com/user-attachments/assets/e4e5d243-895d-4207-815a-dec5fc6eff8e" />
+
 
 ## Work Completed
 
