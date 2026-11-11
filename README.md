@@ -48,7 +48,7 @@ Evaluation of multiple ROV configurations, selection of an initial hardware desi
 | `Turbine_Inspection_ROV-v6.step` | 3D STEP model of the inspection ROV |
 | `LiteratureReview-1.docx` | Literature review documentation |
 | `LiteratureReview-2.pdf` | Literature review documentation |
-| 'References.docx' | Consolidated document containing the references for the selected research papers. |
+| `References.docx` | Consolidated document containing the references for the selected research papers. |
 
 ## Future Work
 
