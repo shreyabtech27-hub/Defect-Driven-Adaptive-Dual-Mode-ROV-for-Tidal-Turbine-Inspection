@@ -22,6 +22,8 @@ Selection of suitable CNN-based models for automated detection of structural def
 ### 4. Hardware Design and Hydrodynamic Analysis
 Evaluation of multiple ROV configurations, selection of an initial hardware design, and drag analysis to assess its hydrodynamic behaviour.
 
+
+
 <img width="1565" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3076cf1-8937-4921-aebe-69043cedb671" />
 
 ## Work Completed
@@ -31,6 +33,8 @@ Evaluation of multiple ROV configurations, selection of an initial hardware desi
 - Developed preliminary CAD designs.
 - Performed drag analysis using SimScale.
 - Initiated the design of RL-based adaptive control mechanisms.
+
+
 
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/7f6a1a77-6c05-478c-809b-457009da195b" />
 
