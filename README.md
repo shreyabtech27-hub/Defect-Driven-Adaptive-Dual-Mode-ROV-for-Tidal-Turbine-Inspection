@@ -46,7 +46,6 @@ Evaluation of multiple ROV configurations, selection of an initial hardware desi
 | `FYPv2-ROV_Assembly.step` | ROV assembly model |
 | `Rov_design_v6.dwg` | Updated ROV CAD design |
 | `Turbine_Inspection_ROV-v6.step` | 3D STEP model of the inspection ROV |
-| `LiteratureReview-1.docx` | Literature review documentation |
 | `LiteratureReview-2.pdf` | Literature review documentation |
 | `References.docx` | Consolidated document containing the references of the referred research papers. |
 
